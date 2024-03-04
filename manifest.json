@@ -3,7 +3,7 @@
   "short_name": "testPWA",
   "theme_color": "#fff",
   "background_color": "#000",
-  "display": "browser",
+  "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
